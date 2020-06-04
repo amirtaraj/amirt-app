@@ -3,6 +3,9 @@ import {Navbar, NavbarBrand} from "reactstrap";
 
 
 function MyNavBar() {
+
+    
+
     return (
         <div>
         <Navbar color="dark" light expand="md">
